@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "21d479338a90c9be212e4546342015c4cecedc4196923a18eb4f8dafca7e1619"
+            "sha256": "25e70d807e6f0bc96270e930a2091c03ae0faee080bdc03ae17cbfc6db51e4c4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -44,6 +44,13 @@
             ],
             "index": "pypi",
             "version": "==1.1.1"
+        },
+        "flask-opentracing": {
+            "hashes": [
+                "sha256:a9a39d367fbe7e9ed9c77b90ac48159c1a3e82982a5abf84d3f4d710d24580ac"
+            ],
+            "index": "pypi",
+            "version": "==1.1.0"
         },
         "idna": {
             "hashes": [
